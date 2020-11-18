@@ -1,3 +1,6 @@
+// This Object Function is from https://github.com/ErikHaag/Compex_Number_JS
+// Please note this is under a GNU 3 License, meaning noone is allowed to sell this code from this or any modified version in a closed source way.
+
 function createComplexVal(R, I) {
   const complexNum = {
     r: R,
